@@ -22,8 +22,3 @@ A
 MULTI-LINE
 COMMENT
 -->
-
-
-## Markdown
-
-Click [here](https://www.markdownguide.org/basic-syntax/) to learn more Markdown syntax.
