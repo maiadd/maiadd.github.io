@@ -1,37 +1,17 @@
 # Maia's Website
 
-## Maia's Heading
+## Introduction
 
-Lorem ipsum dolor sit amet \(x \in X\), consectetur adipiscing elit.
-Nam a suscipit arcu. In hac habitasse platea dictumst.
-Aliquam lobortis dolor lacus, at aliquam mauris sagittis id.
-Integer vestibulum velit eget consectetur hendrerit.
-Etiam dapibus massa libero, ut imperdiet est eleifend ac.
-Phasellus molestie tincidunt magna eget tincidunt.
-Fusce congue fermentum blandit.
-\[ \int_X f \ d\mu \]
-Suspendisse mollis $A \subseteq B$ rhoncus consectetur.
-Vivamus massa lectus, pharetra eget magna eu, vehicula interdum erat.
-Suspendisse ullamcorper, arcu et pharetra lacinia, libero purus dapibus justo, sed vulputate augue leo at neque.
-Mauris faucibus pulvinar magna, ut mattis turpis ornare et.
-Etiam elit dui, condimentum ornare arcu sed, egestas pharetra ex.
-Maecenas quis accumsan urna. Praesent consectetur neque ut arcu viverra euismod.
-Maecenas consectetur ac tellus ut dignissim. Mauris eget massa vel felis lacinia venenatis.
+<p>Hello! My name is Maia Darmon, and I am entering U3 in Honours Mathematics at McGill University.<br>
+I am currently exploring different areas of math such as logic, model theory, as well as theoretical computer science, and I am also interested in learning more about group theory, representation theory and Galois theory.
+I am also doing a minor in linguistics, and I would be really excited to learn about fields which combine this with math and computer science.</p>
 
-This is how you can make a list:
 
-Groceries:
-1. Milk
-2. Eggs
-3. Bread
-4. Vegan tomatoes
+## Projects
 
-## Some Definitions
+<p>In 2019, I did an NSERC Summer Research Project with Pengfei Guan on curve shortening flows and isoperimetric inequalities.<br>
+This summer I am doing an Honours Research Project with Marcin Sabok on Hilbert's <i>Entscheidungsproblem</i> using Gödel's incompleteness theorem and computability theory.</p>
 
-<def-env>
-A **group action** is a map \(\pi: G \times X \to X\) such that \( e \cdot x = x \) and \( g \cdot (h \cdot x) = (gh) \cdot x \)
-where  \(g \cdot x\)  denotes \( \pi(g, x) \).
-</def-env>
 
 <!-- THIS IS A COMMENT -->
 
@@ -43,15 +23,6 @@ MULTI-LINE
 COMMENT
 -->
 
-## Theorems and Proofs
-
-<thm-env>
-This theorem is false.
-</thm-env>
-
-<proof-env>
-Here is the proof.
-</proof-env>
 
 ## Markdown
 
