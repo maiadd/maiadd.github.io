@@ -1,6 +1,6 @@
 # Maia's Website
 
-## This is a Heading
+## Maia's Heading
 
 Lorem ipsum dolor sit amet \(x \in X\), consectetur adipiscing elit.
 Nam a suscipit arcu. In hac habitasse platea dictumst.
