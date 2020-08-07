@@ -14,8 +14,10 @@ body {
 
 h1 {
     text-align: center;
-    color: #0a267a;
+    font-style: oblique;
+    text-shadow: 2px 2px 5px #a1a1a1;
     background-color: #b2e4f7
+
 
 }
 
