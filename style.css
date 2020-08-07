@@ -9,10 +9,14 @@ body {
   margin-bottom: var(--margin-size);
   font-family: "Computer Modern Serif";
   font-size: large;
+  background-color: #b2e4f7
 }
 
 h1 {
     text-align: center;
+    color: #0a267a;
+    background-color: #b2e4f7
+
 }
 
 .katex {
