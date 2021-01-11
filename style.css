@@ -1,26 +1,83 @@
-:root {
-  --margin-size: min(100px, 7.5vw);
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda&family=Lato&family=Open+Sans:wght@300;400&family=Playfair+Display&display=swap');
+
+html, body {
+  height: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 body {
-  margin-left: var(--margin-size);
-  margin-right: var(--margin-size);
-  margin-top: var(--margin-size);
-  margin-bottom: var(--margin-size);
-  font-family: "Computer Modern Serif";
+  font-family: 'Playfair Display', serif;
   font-size: large;
-  background-color: #b2e4f7
+  background-color: #c2e7f5;
+  color: #242424;
+  min-height: 100vh;
 }
 
 h1 {
-    text-align: center;
-    font-style: oblique;
-    text-shadow: 2px 2px 5px #a1a1a1;
-    background-color: #b2e4f7
-
+  text-align: center;
+  color: #1c1c1c;
+  background-color: #eadfd8;
+  margin-top: 0 !important;
+  padding-top: 2vh !important;
+  padding-bottom: 2vh;
 
 }
 
-.katex {
-  font-size: 1em !important;
+h2 {
+  color: #1c1c1c;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+a:link{
+  color: #2d88ab;
+}
+
+a:visited{
+  color: #2d88ab;
+}
+
+a:hover{
+  color: #6cc4e7;
+}
+
+a:active{
+  color: #2d88ab;
+}
+
+
+.container {
+  margin-left: 18vw;
+  margin-right: 18vw;
+  margin-bottom: 1vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  margin-top: 0 auto;
+}
+
+.footer {
+  height: 6vh;
+  width: 100%;
+  text-align: center;
+  background-color: #c2e7f5;
+  margin-top: auto;
+}
+
+[class^="fa fa"]{
+  width: 12px;
+  height: 10px;
+  position: relative;
+  margin-right: 10px;
+}
+
+#friends li{
+  text-align: justify;
 }
