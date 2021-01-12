@@ -78,6 +78,12 @@ a:active{
   margin-right: 10px;
 }
 
+ul#friends{
+  list-style-type: none;
+  margin: 0;
+  padding-left: 2vh;
+}
+
 #friends li{
   text-align: justify;
 }
